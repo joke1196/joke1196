@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on some top secret project that may blow your mind 🤯 or maybe not 
+
 <!--
 **joke1196/joke1196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
