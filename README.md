@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on some top secret project that may blow your mind 🤯 or maybe not 
 
 ![Joke's github stats](https://github-readme-stats.vercel.app/api?username=joke1196&show_icons=true&theme=tokyonight)
 
